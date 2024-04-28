@@ -1,6 +1,6 @@
 import numpy as np
 ### Categorical variable with 4 categories to be converted to numeric data
-exercises_bases = ["A", "G", "C", "U"]
+exercises_bases = ["A", "G", "C", "U", "G", "C", "C"]
 
 ### Full list of RNA nucleotide bases
 full_bases = ["G", "U", "C", "A"]
